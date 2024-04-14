@@ -1,13 +1,13 @@
 
    [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
-
- 
-  <br>
-  <br>
+  
   <br>
   
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=4000&color=F78526&center=true&vCenter=true&multiline=true&random=false&width=435&lines=V+I+R+T+U+E+S+OF+I+G+N+O+R+A+N+C+E" alt="Typing SVG" /></a>
+   <p align="center">
+      <!--
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?            font=Fira+Code&weight=500&pause=4000&color=F78526&center=true&vCenter=true&multiline=true&random=false&width=435&lines=V+I+R+T+U+E+S+OF+I+G+N+O+R+A+N+C+E" alt="Typing SVG" /></a>
+   -->
+   
   <br>
   <br>
   <br>
@@ -22,7 +22,7 @@
 </p>
 
 
-
+<!--
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
@@ -71,3 +71,4 @@
 [tech_tools_anchor]: #redjerrk--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
+-->
