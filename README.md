@@ -1,12 +1,27 @@
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
+   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+
+ 
+  <br>
+  <br>
+  <br>
+  
 <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=4000&color=F78526&center=true&vCenter=true&multiline=true&random=false&width=435&lines=V+I+R+T+U+E+S+OF+I+G+N+O+R+A+N+C+E" alt="Typing SVG" /></a>
+  <br>
+  <br>
+  <br>
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=redjerrk&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=redjerrk&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=redjerrk)](https://git.io/streak-stats)
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=redjerrk&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI">
+  <br>
+  <br>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=redjerrk&theme=dark&hide_border=true&border_radius=24.1&card_width=554&bg_color=00000000" alt="GitHub Streak"/>
   <br>
   <br>
 </p>
+
+
 
 ## 🛠  Technologies and tools
 
