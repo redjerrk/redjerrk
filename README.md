@@ -23,6 +23,8 @@
 
 
 <!--
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=redjerrk&theme=transparent&hide_border=true)
+
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
