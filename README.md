@@ -1,1 +1,2 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redjerrk&show_icons=true&theme=transparent&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redjerrk&layout=compact&langs_count=8&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+                                                                                                                C# | .NET CORE | .NET WEB API | .NET MVC |
+                                                                                          EF CORE MSSQL | POSTGRESQL | ANGULAR | TYPESCRIPT | JAVASCRIPT | VISUAL STUDIO | VS CODE
